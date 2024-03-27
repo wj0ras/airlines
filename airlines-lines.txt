@@ -1,0 +1,6 @@
+RJ,RS,01/01/2012 20:30
+Bahia,Distrito Federal,01/01/2012 20:30
+MG,Tocantins,01/01/2012 20:30
+Espírito Santo,Sergipe,01/01/2012 20:30
+Minas Gerais,São Paulo,01/01/2012 20:30
+Paraná,Santa Catarina,01/01/2012 20:30
